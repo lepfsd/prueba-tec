@@ -2,7 +2,7 @@
 
 Clonar el repositorio
 
-    git clone 
+    git clone https://github.com/lepfsd/prueba-tec.git
 
 Cambie a la carpeta 
 
